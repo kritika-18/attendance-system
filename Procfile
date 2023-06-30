@@ -1,0 +1,1 @@
+web: gunicorn AttendanceSystem:app --log-file -
